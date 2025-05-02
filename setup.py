@@ -27,7 +27,7 @@ setup(
     url="https://github.com/yourusername/auto_data_collector",
     project_urls={
         "Bug Tracker": "https://github.com/rezatutor475/auto_data_collector/issues",
-        "Documentation": "https://github.com/rezatutor475/auto_data_collector#readme",
+        "Documentation": "https://github.com/rezatutor475/auto_data_collector?tab=readme-ov-file#readme",
     },
     packages=find_packages(exclude=["tests*", "examples"]),
     classifiers=[
