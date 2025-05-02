@@ -1,0 +1,7 @@
+{
+  "source": "file",
+  "file": "data/sample_input.json",
+  "api_url": "https://api.example.com/person",
+  "db_url": "mssql+pyodbc://username:password@yourserver/database?driver=ODBC+Driver+17+for+SQL+Server",
+  "log_file": "logs/data_collector.log"
+}
